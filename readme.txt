@@ -4,6 +4,7 @@ Tags: empty paragraphs, empty paragraph tags, empty p tags, remove
 Requires at least: 3.9.1
 Tested up to: 4.0
 Stable tag: 4.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,8 +15,8 @@ p Squirrel: The friendly empty paragraph removal system for Wordpress. p Squirre
 
 == Installation ==
 1. Upload the `p-squirrel` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the \'Plugins\' menu in WordPress
-3. That\'s it, Enjoy!
+2. Activate the plugin through the `Plugins` menu in WordPress
+3. That's it, Enjoy!
 
 == Frequently Asked Questions ==
 = What does p Squirrel do? =
@@ -31,6 +32,11 @@ p Squirrel uses JavaScript and JQuery to find and remove empty paragraph element
 2. After - p Squirrel removes the empty paragraphs
 
 == Changelog ==
+
+= 1.0.1 =
+* Meta: Fixed installation instructions
+* Meta: Added logo and banner
+
 = 1.0 =
 * Initial release
 * Feature: All empty HTML paragraph elements removed using JavaScript and JQuery.
