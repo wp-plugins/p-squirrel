@@ -3,7 +3,7 @@ Contributors: ZendyLabs
 Tags: empty paragraphs, empty paragraph tags, empty p tags, remove, hide
 Requires at least: 3.9.1
 Tested up to: 4.0
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,8 +32,11 @@ p Squirrel uses JavaScript and JQuery to find and hide empty paragraph elements.
 
 == Changelog ==
 
+= 1.1.1 =
+* Meta: Fixed readme file
+
 = 1.1 =
-* Fix: Fixed bug where paragraphs containing only HMTL elements which typically contain no text were being removed (i.e. <img>,<iframe>,<embed>, etc.)
+* Fix: Fixed bug where paragraphs containing only HMTL elements which typically contain no text were being removed (i.e. `<img>`,`<iframe>`,`<embed>`, etc.)
 * Fix: Paragraphs containing only empty child HTML elements are now hidden
 * Meta: Instead of removing empty p tags from the DOM, they are now simply hidden
 * Meta: Edited readme file to reflect new changes in how the program functions
