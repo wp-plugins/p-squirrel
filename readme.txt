@@ -2,8 +2,8 @@
 Contributors: ZendyLabs
 Tags: empty paragraphs, empty paragraph tags, empty p tags, remove, hide
 Requires at least: 3.9.1
-Tested up to: 4.0
-Stable tag: 1.1.1
+Tested up to: 4.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,9 @@ p Squirrel uses JavaScript and JQuery to find and hide empty paragraph elements.
 2. After - p Squirrel hides the empty paragraphs
 
 == Changelog ==
+
+= 1.1.2 =
+* Meta: Tested for Wordpress 4.1
 
 = 1.1.1 =
 * Meta: Fixed readme file
